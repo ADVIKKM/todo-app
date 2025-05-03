@@ -11,14 +11,13 @@ A full-stack ToDo application built with the **MERN stack** (MongoDB, Express.js
 - 🖊 Edit existing tasks
 - 🗑 Delete tasks
 - 🔐 User Signup, Login, Logout
-- 🔒 Private task management (user-specific)
 - 🌐 Persistent sessions using JWT + cookies
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React.js, Axios, React Router, Tailwind CSS (optional)
+- **Frontend:** React.js, Axios, React Router, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB with Mongoose
 - **Authentication:** JSON Web Tokens (JWT), Cookies
